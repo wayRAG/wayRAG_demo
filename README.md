@@ -345,5 +345,3 @@ Phase 1 deliberately optimizes for:
 By constraining scope and preserving seams, it creates a stable foundation on which **real knowledge governance** can be layered in Phase 2 — without rewrites, migrations, or loss of credibility.
 
 This is a foundation, not the destination.
-# wayRAG_demo
-To demonstrate the need and capabilities of goveranance for enterprise AI
